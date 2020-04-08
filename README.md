@@ -16,6 +16,7 @@ As it's abovious when your documents getting huge its become impossible to readi
 In this project I'm trying to expressing most importants method that would be useful in language processing, BUT in Persian Language.
 
 The methods are:
+
 . Text Classification
 
 . Sentimet Analysis
