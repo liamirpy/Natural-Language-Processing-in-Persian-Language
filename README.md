@@ -17,10 +17,15 @@ In this project I'm trying to expressing most importants method that would be us
 
 The methods are:
 . Text Classification
+
 . Sentimet Analysis
+
 . Valance Aware Dictionary for sEntiment Reasoning (VADER)
+
 . Topic Modeling
+
 . Latent Dirichlet Allocation (LDA)
+
 
 
 I will explain each of them in more detail in other sequences repository.
